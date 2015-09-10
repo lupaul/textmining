@@ -1,1 +1,1 @@
-#Hello word USCTEAM
+#hello word
